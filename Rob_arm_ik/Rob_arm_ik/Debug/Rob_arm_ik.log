@@ -1,0 +1,57 @@
+﻿生成启动时间为 2018/8/26 10:40:20。
+     1>项目“E:\Source_Files\VS_Files\33_Rob_arm_ik_git\Rob_arm_ik\Rob_arm_ik\Rob_arm_ik\Rob_arm_ik.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Rob_arm_ik.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ik_solver.cpp main.cpp
+         main.cpp
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\main.cpp(45): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\main.cpp(35): warning C4101: “solver_number”: 未引用的局部变量
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\main.cpp(34): warning C4101: “Joint”: 未引用的局部变量
+         ik_solver.cpp
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(86): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(94): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(107): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(142): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(163): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(231): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(295): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(303): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(319): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(374): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(396): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(566): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(574): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(587): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(622): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(642): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(643): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(913): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(920): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(926): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(932): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(959): warning C4101: “s3”: 未引用的局部变量
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(959): warning C4101: “s5”: 未引用的局部变量
+     1>e:\source_files\vs_files\33_rob_arm_ik_git\rob_arm_ik\rob_arm_ik\rob_arm_ik\ik_solver.cpp(959): warning C4101: “s4”: 未引用的局部变量
+         正在生成代码...
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Source_Files\VS_Files\33_Rob_arm_ik_git\Rob_arm_ik\Rob_arm_ik\Debug\Rob_arm_ik.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Rob_arm_ik.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Source_Files\VS_Files\33_Rob_arm_ik_git\Rob_arm_ik\Rob_arm_ik\Debug\Rob_arm_ik.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Source_Files\VS_Files\33_Rob_arm_ik_git\Rob_arm_ik\Rob_arm_ik\Debug\Rob_arm_ik.lib" /MACHINE:X86 Debug\Rob_arm_ik.exe.embed.manifest.res
+         Debug\ik_solver.obj
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Rob_arm_ik.exe.embed.manifest" /manifest Debug\Rob_arm_ik.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Rob_arm_ik.vcxproj -> E:\Source_Files\VS_Files\33_Rob_arm_ik_git\Rob_arm_ik\Rob_arm_ik\Debug\Rob_arm_ik.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Rob_arm_ik.unsuccessfulbuild”。
+         正在对“Debug\Rob_arm_ik.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Source_Files\VS_Files\33_Rob_arm_ik_git\Rob_arm_ik\Rob_arm_ik\Rob_arm_ik\Rob_arm_ik.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.51
